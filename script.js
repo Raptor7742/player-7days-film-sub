@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "",
+            "https://m108.syncusercontent.com/mfs-60:7f3cd7a0b29574a612ce4e5386fcaf66=============================/p/7%20jours%20sub.mp4?allowdd=0&datakey=Ez6cBMtbiHQucqUNNi3Bi4EPFCYfxt3/Sx2gRPgwshG0bO+tv6Zw7HtB3oNBsNLP/7CmKvpckN28VmHyFK/6WdJR3sj2Ic1A/MZpGZKXM393myeleU67qAQPzF58WTkfPs26j8ob6qjnbsWk/q/m01A810e3tmSpFHYbGzQoXaxKsu/Sl+HkDMcpZU6RNc825sRsfP9+fx2x4W2TXoAEO8n796y0NIep5vE/bmR0GZ1k5sRDPb2aLNhPTnjYYNzuD3I21RgETr5aq+F3RKs3PFPXloUSg31Hnj2dTI3OOzL3oGb48vTfQQr9ngymEciMoxPiMlUwFycvPPofxl5MbQ&engine=ln-2.3.7.3&errurl=m4E6ETH6HFiFumGDQ/oLFhnTlzROxKafREy3grdIs1cBL9CB30GbFv9l2UupPrQX+Ykbl+kOL3Okc/RyIxKMtHz4SW4aYoTIH6txr3iOXItE7g4oelk5hVobDEX2tHdF7wEGig0Q3g08xxaL3RduFw3V/8PzFITl32YtKV0kZP8JXQQUlp2yEXzuXyKxB5cYH2jFppPhP468eJS+D5QhX6N1kkssc/Du3aaVEq4m9M2X9/+CnCIcG2mbAzJalcb4eK8Smpkm4ON0M6eWRADyOZV7VcVY4b9SAA6m4K3i/pIJqQUnl53xZQygOmdlpL5gMl8Cpm9sm6OCKjYL+o1nSg==&header1=Q29udGVudC1UeXBlOiB2aWRlby9tcDQ&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0iNyUyMGpvdXJzJTIwc3ViLm1wNCI7ZmlsZW5hbWUqPVVURi04Jyc3JTIwam91cnMlMjBzdWIubXA0Ow&ipaddress=1458994159&linkcachekey=13b7751d0&linkoid=1983610011&mode=101&sharelink_id=9632516030011&timestamp=1672689007172&uagent=220523ca5285197b0fad467e0e72e6907a6c5738&signature=26c79d264ae8bf861b6363df6791b923895fa0c2&cachekey=60:7f3cd7a0b29574a612ce4e5386fcaf66=============================",
           label: "720p"
         },
         {
