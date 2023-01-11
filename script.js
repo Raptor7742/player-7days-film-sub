@@ -31,7 +31,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://s18.drop.download:182/d/elcs237e4vlvhai4vs7zxf22zjfphehoon5lj2swj5v6d3ky4xb2urgnrvveo4mvaj5m2y4w/Puss.in.Boots.The.Last.Wish.2022.TRUEFRENCH.1080p.AMZN.WEB-DL.DDP5.1.H264-CM%20(1).mp4",
+            "http://filecrypt.cc/Link/nrb1w45P5Q-MAiUHOTh3AOHaLZhciN4jDcjSbxIqPd5EjTOobrpLI2OD_tPQ4MuTJwkXVfWKGgfxPiq2duiHltpLHHsTiuJyaU22qEZsuJ12u_U8--9rUb1TEJM11ss0.html",
           label: "1080p",
           default: true
         },
