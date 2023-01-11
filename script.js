@@ -31,7 +31,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "http://filecrypt.cc/Link/nrb1w45P5Q-MAiUHOTh3AOHaLZhciN4jDcjSbxIqPd5EjTOobrpLI2OD_tPQ4MuTJwkXVfWKGgfxPiq2duiHltpLHHsTiuJyaU22qEZsuJ12u_U8--9rUb1TEJM11ss0.html",
+            "https://m108.syncusercontent.com/mfs-60:75db806aedab94373e90584ab35f368e=============================/p/7%20jours%20dub.mp4?allowdd=0&datakey=JfJcGEiuQ+pZbwpDJAL7C+WJEKMbZ2tPTyhNudmVOY6X4NzC7HdJHorMLnyOJzchHvcwTWyvgoh+QQDqaC9PTOwRh5V/Jy8lMINkAP0K3JC+aVXsqr5lBP2RPe8MvKLLnOMzlWTZByCuP4kAl0EuSv9BJU1nRXaRZLeudSCYi4MaPf3xzExk3JnUC+lf2A+QPShZlHtrrgdnfO1/mQTk2ntAFvpoUJQpIggvcT60GKnaVV6Y8T8CUCnSjjTykRNB3WMoNU0hE8t/kHaTfU8Bj00zuEP5QXsCyhsL3an2p8EkYADrDFq6Tlv9+hnuPkOfYoZmHMR+pQhJmNGAtTvxGw&engine=ln-2.3.8&errurl=OoXccpasI57ED0iGS1hYonwbLomAdbHjh0gKTli3YVjc18Uaxi5QnI1Ctz8HZO4L4lSf0nSuhBCEAxknrqJ4SZNXKZkmcZ+3fMHk/DuRvS0pVU5DZrRwsNIlAzLajY3dnzlTE4wUa2JgkHJrc0erJW/VNxD+GqN+0/9YxYeizbQGpvO24PY3foU+rS5DJL8PcPzM7SR7Dv5CnxByj+Qwtr1dHs/8RLQHuN+S4Lea94Dl6qyEMB/zHxkcnuetxV8c8YIAmae6Kfdssa4M5lqMaClOSWU+dXJuhlMNIXcWp41jcYlfmyLFYKnH31v10CY/lqmp8ZK1b93E/K+W9wEhPQ==&header1=Q29udGVudC1UeXBlOiB2aWRlby9tcDQ&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0iNyUyMGpvdXJzJTIwZHViLm1wNCI7ZmlsZW5hbWUqPVVURi04Jyc3JTIwam91cnMlMjBkdWIubXA0Ow&ipaddress=1458994159&linkcachekey=c8f045600&linkoid=1983610011&mode=101&sharelink_id=9632517860011&timestamp=1673436226683&uagent=220523ca5285197b0fad467e0e72e6907a6c5738&signature=9d8278177b74b47700cb77b34366b50f4d798413&cachekey=60:75db806aedab94373e90584ab35f368e=============================",
           label: "1080p",
           default: true
         },
