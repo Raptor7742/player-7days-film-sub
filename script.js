@@ -31,7 +31,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://app.box.com/file/1102668552642?s=yh4aszph05lnaqbdqzyyhmeuasfm4h89",
+            "https://dl.videas.fr/v-medias/s3/uploaded/Puss.in.Boots.The.Last.Wish.2022.TRUEFRENCH.1080p.AMZN.WEB-DL.DDP5.1.H264-CM_1.mp4?fileName=pussinbootsthelastwish2022truefrench1080pamznweb-dlddp51h264-cm-1mp4-source.mp4",
           label: "1080p",
           default: true
         },
