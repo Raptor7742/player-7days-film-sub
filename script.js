@@ -32,7 +32,7 @@ const playerInstance = jwplayer("player").setup({
         {
           file:
             "https://dl.videas.fr/v-medias/s3/uploaded/Puss.in.Boots.The.Last.Wish.2022.TRUEFRENCH.1080p.AMZN.WEB-DL.DDP5.1.H264-CM_1.mp4?fileName=pussinbootsthelastwish2022truefrench1080pamznweb-dlddp51h264-cm-1mp4-source.mp4",
-          label: "1080p",
+          label: "800p",
           default: true
         },
         {
@@ -42,7 +42,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "",
+            "https://dl.videas.fr/v-medias/s3/a/1d/88/1d88a133aff64d9aafcbd39805c8a6f1/868e9431a9104c53980b2dcde0d06f57/abe07abd-b4cd-407f-9b21-c9c807fb5ff8.mp4?fileName=pussinbootsthelastwish2022truefrench1080pamznweb-dlddp51h264-cm-1mp4-480p.mp4",
           label: "480p"
         },
         {
